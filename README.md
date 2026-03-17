@@ -8,7 +8,7 @@ A full-stack Learning Management System built with the MERN stack (MongoDB, Expr
 
 
 
-🚀 Live Demo
+🚀 Live Demo  :  https://learninggmanagementsystem.netlify.app/auth
 
 Frontend: learninggmanagementsystem.netlify.app
 
